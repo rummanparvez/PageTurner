@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356325877060",
+    "project_id": "shopease-6db5d",
+    "storage_bucket": "shopease-6db5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356325877060:android:28bcc0836ebfc38fec6311",
+        "android_client_info": {
+          "package_name": "com.shopease.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2hW1X2zHiOwzHCWsLeDSmNEbJgiZFvRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
